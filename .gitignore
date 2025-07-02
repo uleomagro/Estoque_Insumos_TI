@@ -1,0 +1,23 @@
+# Node.js modules
+node_modules/
+
+# Logs
+*.log
+logs/
+audit.log
+
+# Ambientes
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor de código
+.vscode/
+.idea/
+
+# Builds ou arquivos temporários
+dist/
+build/
+tmp/
